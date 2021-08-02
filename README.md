@@ -154,8 +154,4 @@ You can take a completed copy [here](https://www.roblox.com/library/3105433364/H
 
 
 
-# Get In Touch
-- **Twitter** - [@ForeverhdRBX](https://twitter.com/ForeverhdRBX)
-- **DevForum** - [ForeverHD](https://devforum.roblox.com/u/ForeverHD/summary)
-- **Roblox** - [ForeverHD](https://www.roblox.com/users/82347291/profile)
-- **Discord** - [HD Community](http://discord.gg/hJBGFa5)
+
